@@ -1,0 +1,4 @@
+select{
+    background-image: linear-gradient(white,black);
+    filter: drop-shadow(0 0 1px black)
+}
